@@ -8,10 +8,7 @@
 
 <p>Email: dragonstine@hotmail.com</p>
 
-<p>Objective:</p>
-
-<pre><code>To seek web development and programming skills.
-</code></pre>
+<p>Objective:  To seek web development and programming skills.</p>
 
 <p>Education:</p>
 
