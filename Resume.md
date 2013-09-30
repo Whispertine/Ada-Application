@@ -1,4 +1,4 @@
-<p>Christine O’Beso</p>
+<h2>Christine O’Beso</h2>
 
 <p>521 S. Weller St. Apt. 515</p>
 
@@ -8,17 +8,20 @@
 
 <p>Email: dragonstine@hotmail.com</p>
 
-<p>Objective:  To seek web development and programming skills.</p>
+<h4>Objective:</h4>
 
-<p>Education:</p>
+<p>• To seek web development and programming skills.</p>
 
-<p>• August 2008 – June 2010: Antelope Valley College, General Business</p>
+<h4>Education:</h4>
+
+<pre><code>• August 2008 – June 2010: Antelope Valley College, General Business
+</code></pre>
 
 <p>• June 2007: BS in Animal Science, Option: Pre-vet</p>
 
 <p>• June 2003: Quartz Hill High School</p>
 
-<p>Qualifications:</p>
+<h4>Qualifications:</h4>
 
 <p>• Strength: Ability to learn various skills to improve my knowledge base</p>
 
@@ -26,7 +29,7 @@
 
 <p>• Able to think creatively to solve tasks in a timely fashion</p>
 
-<p>Experience:</p>
+<h4>Experience:</h4>
 
 <p>• September 2007 – March 2008: Laboratory Animal Technician at City of Hope</p>
 
@@ -56,7 +59,7 @@
 
 <p>o   Completed training to operate campus vehicles</p>
 
-<p>Additional Information</p>
+<h4>Additional Information</h4>
 
 <p>• March 2008 – January 2013: Sabatical</p>
 
