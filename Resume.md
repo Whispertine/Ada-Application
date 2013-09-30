@@ -8,20 +8,19 @@
 
 <p>Email: dragonstine@hotmail.com</p>
 
-<h4>Objective:</h4>
+<h3>Objective:</h3>
 
 <p>• To seek web development and programming skills.</p>
 
-<h4>Education:</h4>
+<h3>Education:</h3>
 
-<pre><code>• August 2008 – June 2010: Antelope Valley College, General Business
-</code></pre>
+<p>• August 2008 – June 2010: Antelope Valley College, General Business</p>
 
 <p>• June 2007: BS in Animal Science, Option: Pre-vet</p>
 
 <p>• June 2003: Quartz Hill High School</p>
 
-<h4>Qualifications:</h4>
+<h3>Qualifications:</h3>
 
 <p>• Strength: Ability to learn various skills to improve my knowledge base</p>
 
@@ -29,9 +28,9 @@
 
 <p>• Able to think creatively to solve tasks in a timely fashion</p>
 
-<h4>Experience:</h4>
+<h3>Experience:</h3>
 
-<p>• September 2007 – March 2008: Laboratory Animal Technician at City of Hope</p>
+<h5>•    September 2007 – March 2008: Laboratory Animal Technician at City of Hope</h5>
 
 <p>o   Ensuring animals had clean housing and fresh water</p>
 
@@ -39,7 +38,7 @@
 
 <p>o   Testing, handling and labeling hazardous materials (ie: biohazardous, chemical, radioactive and cancerous) produced by animals</p>
 
-<p>• April 2006 – August 2007: Cage wash technician at Cal Poly Pomona</p>
+<h5>•    April 2006 – August 2007: Cage wash technician at Cal Poly Pomona</h5>
 
 <p>o   Handling, labeling and disposing hazardous materials produced by animals</p>
 
@@ -49,7 +48,7 @@
 
 <p>o   Providing clean housing and fresh water for animals</p>
 
-<p>• June 2004 – April 2006: Veterinary assistant at Cal Poly Pomona</p>
+<h5>•    June 2004 – April 2006: Veterinary assistant at Cal Poly Pomona</h5>
 
 <p>o   Sanitation of equipment contaminated with biohazardous waste</p>
 
@@ -59,9 +58,9 @@
 
 <p>o   Completed training to operate campus vehicles</p>
 
-<h4>Additional Information</h4>
+<h3>Additional Information</h3>
 
-<p>• March 2008 – January 2013: Sabatical</p>
+<h5>•    March 2008 – January 2013: Sabatical</h5>
 
 <p>o   Intermittently cared for ailing family members</p>
 
