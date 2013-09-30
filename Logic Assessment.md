@@ -5,3 +5,17 @@
 <li>I was able to arrive at this conclusion by drawing out the situation to visualize the information. I then wrote down all the immediate ideas that came to mind. Most of them did not shed any light on the solution and I was able to dismiss them from my thoughts. I then tried to solve the puzzle with mathematics to help justify my best theory.</li>
 <li>A different explanation could be that the train to Broadway Market QFC has more passengers and is less desirable to her. Another idea is that the train to Harvard Market is free to ride while the train to Broadway Market QFC cost to ride.</li>
 </ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
