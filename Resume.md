@@ -32,10 +32,11 @@
 
 <h5>•    September 2007 – March 2008: Laboratory Animal Technician at City of Hope</h5>
 
-<pre><code>    - Ensuring animals had clean housing and fresh water
-    - Measured tumor growths to ensure animals were being treated humanely and notifying researchers and veterinary staff if action was needed
-    - Testing, handling and labeling hazardous materials (ie: biohazardous, chemical, radioactive and cancerous) produced by animals
-</code></pre>
+<p>o   Ensuring animals had clean housing and fresh water</p>
+
+<p>o   Measured tumor growths to ensure animals were being treated humanely and notifying researchers and veterinary staff if action was needed</p>
+
+<p>o   Testing, handling and labeling hazardous materials (ie: biohazardous, chemical, radioactive and cancerous) produced by animals</p>
 
 <h5>•    April 2006 – August 2007: Cage wash technician at Cal Poly Pomona</h5>
 
