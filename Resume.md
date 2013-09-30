@@ -10,57 +10,61 @@
 
 <h3>Objective:</h3>
 
-<p>• To seek web development and programming skills.</p>
+<ul>
+<li>To seek web development and programming skills.</li>
+</ul>
 
 <h3>Education:</h3>
 
-<p>• August 2008 – June 2010: Antelope Valley College, General Business</p>
-
-<p>• June 2007: BS in Animal Science, Option: Pre-vet</p>
-
-<p>• June 2003: Quartz Hill High School</p>
+<ul>
+<li><p>August 2008 – June 2010: Antelope Valley College, General Business</p></li>
+<li><p>June 2007: BS in Animal Science, Option: Pre-vet</p></li>
+<li><p>June 2003: Quartz Hill High School</p></li>
+</ul>
 
 <h3>Qualifications:</h3>
 
-<p>• Strength: Ability to learn various skills to improve my knowledge base</p>
-
-<p>• Able to work as both an individual and as part of a team to complete tasks</p>
-
-<p>• Able to think creatively to solve tasks in a timely fashion</p>
+<ul>
+<li><p>Strength: Ability to learn various skills to improve my knowledge base</p></li>
+<li><p>Able to work as both an individual and as part of a team to complete tasks</p></li>
+<li><p>Able to think creatively to solve tasks in a timely fashion</p></li>
+</ul>
 
 <h3>Experience:</h3>
 
-<h5>•    September 2007 – March 2008: Laboratory Animal Technician at City of Hope</h5>
+<ul>
+<li><p>September 2007 – March 2008: Laboratory Animal Technician at City of Hope</p>
 
-<p>o   Ensuring animals had clean housing and fresh water</p>
+<p>--  Ensuring animals had clean housing and fresh water</p>
 
-<p>o   Measured tumor growths to ensure animals were being treated humanely and notifying researchers and veterinary staff if action was needed</p>
+<p>--  Measured tumor growths to ensure animals were being treated humanely and notifying researchers and veterinary staff if action was needed</p>
 
-<p>o   Testing, handling and labeling hazardous materials (ie: biohazardous, chemical, radioactive and cancerous) produced by animals</p>
+<p>--  Testing, handling and labeling hazardous materials (ie: biohazardous, chemical, radioactive and cancerous) produced by animals</p></li>
+<li><p>April 2006 – August 2007: Cage wash technician at Cal Poly Pomona</p>
 
-<h5>•    April 2006 – August 2007: Cage wash technician at Cal Poly Pomona</h5>
+<p>--  Handling, labeling and disposing hazardous materials produced by animals</p>
 
-<p>o   Handling, labeling and disposing hazardous materials produced by animals</p>
+<p>--  Testing equipment to ensure proper sanitation of hazardous material</p>
 
-<p>o   Testing equipment to ensure proper sanitation of hazardous material</p>
+<p>--  Sorting new animals into proper size cages based on researchers criteria </p>
 
-<p>o   Sorting new animals into proper size cages based on researchers criteria </p>
+<p>--  Providing clean housing and fresh water for animals</p></li>
+<li><p>June 2004 – April 2006: Veterinary assistant at Cal Poly Pomona</p>
 
-<p>o   Providing clean housing and fresh water for animals</p>
+<p>--  Sanitation of equipment contaminated with biohazardous waste</p>
 
-<h5>•    June 2004 – April 2006: Veterinary assistant at Cal Poly Pomona</h5>
+<p>--  Handling, labeling and disposing of hazardous materials</p>
 
-<p>o   Sanitation of equipment contaminated with biohazardous waste</p>
+<p>--  Setting up equipment for surgical procedures</p>
 
-<p>o   Handling, labeling and disposing of hazardous materials</p>
-
-<p>o   Setting up equipment for surgical procedures</p>
-
-<p>o   Completed training to operate campus vehicles</p>
+<p>--  Completed training to operate campus vehicles</p></li>
+</ul>
 
 <h3>Additional Information</h3>
 
-<h5>•    March 2008 – January 2013: Sabatical</h5>
+<ul>
+<li><p>March 2008 – January 2013: Sabbatical</p>
 
-<p>o   Intermittently cared for ailing family members</p>
+<p>--  Intermittently cared for ailing family members</p></li>
+</ul>
 
